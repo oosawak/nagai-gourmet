@@ -23,7 +23,7 @@ POSTS=CONTENT/'posts'
 IMAGES=CONTENT/'images'
 COLOR_THUMB=(720,450)
 CATEGORY_COVERS={'食堂・定食':'nagai/takasaka-shokudo-nagai.webp','焼肉・とんかつ':'nagai/tonchinkan-nagai.webp','和食・カフェ':'nagai/saito-fuya-nagai.webp','馬刺し・精肉':'nagai/nikusyo-endo-nagai.webp'}
-DEFAULT_COVER='nagai/hero-v8.webp'
+DEFAULT_COVER='nagai/hero-v10.webp'
 MANUAL_I18N=json.loads((CONTENT/'i18n/en.json').read_text(encoding='utf-8'))
 TRANSLATION_CACHE=ROOT/'cache/translations/en.json'
 CACHED_I18N=json.loads(TRANSLATION_CACHE.read_text(encoding='utf-8')) if TRANSLATION_CACHE.is_file() else {'sites':{},'posts':{}}

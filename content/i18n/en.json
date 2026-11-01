@@ -1,0 +1,16 @@
+{
+  "sites": {
+    "nagai": {
+      "name": "Nagai Food Map",
+      "short_name": "Nagai Food",
+      "kind_label": "Food magazine",
+      "hero_title": "Explore the flavors of Nagai,\n one pin on the map at a time.",
+      "description": "A food guide to Nagai, the town of the Kurojishi lion dance and irises, with every eatery pinned on a map.",
+      "subtitle": "Stories about the tastes of Nagai, collected on a map",
+      "hero_note": "A map and short trips",
+      "about": "A food guide to eateries in Nagai, Yamagata, based on social posts by visitors, presented together with a map. Cover images are AI-created watercolor illustrations; see the embedded original posts for actual photos of the food.",
+      "source_hash": "e8fe996f28a5c64576bf8c00d0d394481904a9fc2ef615f1775639a1403cb81b"
+    }
+  },
+  "posts": {}
+}

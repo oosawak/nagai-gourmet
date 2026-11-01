@@ -1,0 +1,15 @@
+id: nagai
+name: 長井グルメ地図
+short_name: 長井グルメ
+kind: media
+kind_label: グルメメディア
+accent: '#7c2128'
+eyebrow: TASTE OF NAGAI
+hero_title: '長井のおいしいものを、
+地図でめぐる。'
+description: 黒獅子とあやめの町、長井市のおいしい店を、地図のピンと一緒にたどるグルメ案内です。馬刺しをはじめ、長井の食文化が見えてきます。
+subtitle: 長井の味を地図で集めた読みもの
+hero_note: 地図と小さな旅
+about: 山形県長井市内の飲食店・食の店を訪れた人のSNS投稿をもとに、お店と料理を地図と一緒に紹介するグルメ案内です。カバー画像はAIが作成した水彩調イラストで、実際の料理の写真は各記事に埋め込んだ元投稿で確認できます。
+
+hero_image: nagai/hero.webp

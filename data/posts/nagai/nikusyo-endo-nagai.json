@@ -18,7 +18,14 @@
     "mime": "image/webp"
   },
   "i18n": {
-    "en": {}
+    "en": {
+      "title": "Nagai City's \"Nikusho Endo\" — A Horse Sashimi (Basashi) and Yonezawa Beef Butcher Shop",
+      "category": "Horse Sashimi & Meat",
+      "summary": "\"Nikusho Endo,\" a butcher shop in Koide, Nagai City. Operating under the motto \"Deliciousness starts with 'go-en',\" it is known for its purely domestic horse sashimi (basashi) and Yonezawa beef. Posts rave about the garlic-rich horse sashimi.",
+      "cover_alt": "Watercolor-style illustration of horse sashimi (basashi)",
+      "html": "<p>This is Nikusho Endo, located in Koide, Nagai City.</p>\n<p>This butcher shop purchases whole cattle, horses, and pigs and selects them based on its own standards; its signature dish is Nagai's famous horse sashimi (basashi). Posts describe the sashimi as &quot;the best&quot; and &quot;packed with garlic.&quot;</p>\n<p>You can find the shop's location and business hours on Google Maps via &quot;Shop Location&quot; at the bottom of this article.</p>\n<p>Source: <a href=\"https://www.threads.com/@k_kudo_1980/post/DOVyRYYk4iP\">Threads post</a></p>\n",
+      "markdown": "This is Nikusho Endo, located in Koide, Nagai City.\n\nThis butcher shop purchases whole cattle, horses, and pigs and selects them based on its own standards; its signature dish is Nagai's famous horse sashimi (basashi). Posts describe the sashimi as \"the best\" and \"packed with garlic.\"\n\nYou can find the shop's location and business hours on Google Maps via \"Shop Location\" at the bottom of this article.\n\nSource: [Threads post](https://www.threads.com/@k_kudo_1980/post/DOVyRYYk4iP)\n"
+    }
   },
   "embed_url": "https://www.threads.com/@k_kudo_1980/post/DOVyRYYk4iP",
   "embed_platform": "threads",

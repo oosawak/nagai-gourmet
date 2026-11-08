@@ -18,7 +18,14 @@
     "mime": "image/webp"
   },
   "i18n": {
-    "en": {}
+    "en": {
+      "title": "Nagai City's \"Takasaka Shokudo\" — The signature dish is hearty katsu curry",
+      "category": "Diner & Set Meals",
+      "summary": "Takasaka Shokudo is a traditional diner in Kunomoto, Nagai City. The katsu curry (regular serving, 1,050 yen including tax) featured in the post is a signature dish frequently mentioned as a standout in reviews on sites like Tabelog.",
+      "cover_alt": "Watercolor-style illustration of katsu curry",
+      "html": "<p>This is Takasaka Shokudo, located in Kunomoto, Nagai City.</p>\n<p>The post features a regular serving of katsu curry (¥1,050, tax included). This restaurant is well-regarded for its hearty, diner-style portions and classic curry. Its wide menu—including katsudon and ramen sets—is another reason why it is so beloved by locals.</p>\n<p>You can find the restaurant's location and business hours on Google Maps via &quot;Restaurant Location&quot; at the bottom of this article (it is closed on Mondays).</p>\n<p>Source: <a href=\"https://www.threads.com/@aki_special_sweet/post/De7yVNXk_t7\">Threads post</a></p>\n",
+      "markdown": "This is Takasaka Shokudo, located in Kunomoto, Nagai City.\n\nThe post features a regular serving of katsu curry (¥1,050, tax included). This restaurant is well-regarded for its hearty, diner-style portions and classic curry. Its wide menu—including katsudon and ramen sets—is another reason why it is so beloved by locals.\n\nYou can find the restaurant's location and business hours on Google Maps via \"Restaurant Location\" at the bottom of this article (it is closed on Mondays).\n\nSource: [Threads post](https://www.threads.com/@aki_special_sweet/post/De7yVNXk_t7)\n"
+    }
   },
   "embed_url": "https://www.threads.com/@aki_special_sweet/post/De7yVNXk_t7",
   "embed_platform": "threads",

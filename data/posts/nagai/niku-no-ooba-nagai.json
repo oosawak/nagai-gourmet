@@ -18,7 +18,14 @@
     "mime": "image/webp"
   },
   "i18n": {
-    "en": {}
+    "en": {
+      "title": "Nagai City's \"Niku no Ooba\" — A butcher shop boasting freshness, cutting meat only after an order is placed",
+      "category": "Horse Sashimi & Meat",
+      "summary": "\"Niku no Ooba,\" a butcher shop in Kunomoto, Nagai City. Founded in 1975 and run by two generations of a family, it is also a designated Yonezawa beef retailer and offers domestic horse sashimi (basashi). The post features horse sashimi packed with garlic.",
+      "cover_alt": "Watercolor-style illustration of horse sashimi (basashi) and meat",
+      "html": "<p>This is &quot;Niku no Ooba&quot; in Kunomoto, Nagai City.</p>\n<p>Founded in 1975, this community-rooted butcher shop has been run by two generations of a family, specializing in Yonezawa beef and domestic horse meat. Their commitment is to slice each piece individually upon order, rather than displaying it in a showcase. In a post, the horse sashimi (basashi) is described as &quot;the best.&quot; A culture of eating horse meat has long been rooted in Nagai, and the horse meat chashu is also a local specialty.</p>\n<p>You can find the shop's location and business hours on Google Maps via &quot;Shop Location&quot; at the bottom of this article.</p>\n<p>Source: <a href=\"https://www.threads.com/@k_kudo_1980/post/DORpnJjE5G0\">Threads post</a></p>\n",
+      "markdown": "This is \"Niku no Ooba\" in Kunomoto, Nagai City.\n\nFounded in 1975, this community-rooted butcher shop has been run by two generations of a family, specializing in Yonezawa beef and domestic horse meat. Their commitment is to slice each piece individually upon order, rather than displaying it in a showcase. In a post, the horse sashimi (basashi) is described as \"the best.\" A culture of eating horse meat has long been rooted in Nagai, and the horse meat chashu is also a local specialty.\n\nYou can find the shop's location and business hours on Google Maps via \"Shop Location\" at the bottom of this article.\n\nSource: [Threads post](https://www.threads.com/@k_kudo_1980/post/DORpnJjE5G0)\n"
+    }
   },
   "embed_url": "https://www.threads.com/@k_kudo_1980/post/DORpnJjE5G0",
   "embed_platform": "threads",

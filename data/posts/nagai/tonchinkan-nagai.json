@@ -18,7 +18,14 @@
     "mime": "image/webp"
   },
   "i18n": {
-    "en": {}
+    "en": {
+      "title": "Nagai City's \"Yakiniku Tonchinkan\" — Yakiniku at night, tonkatsu and cold noodles by day",
+      "category": "Yakiniku & Tonkatsu",
+      "summary": "\"Yakiniku Tonchinkan\" in Tatemachi-minami, Nagai City. The longest-running yakiniku restaurant in Nagai, it also boasts popular lunch options featuring tonkatsu and cold noodles, such as the loin tonkatsu set (1,000 yen) featured in the post.",
+      "cover_alt": "Watercolor-style illustration of a tonkatsu set meal and yakiniku",
+      "html": "<p>This is &quot;Yakiniku Tonchinkan,&quot; located in Tatemachi-minami, Nagai City.</p>\n<p>The post featured the pork loin tonkatsu set meal. This is a long-established restaurant in Nagai where you can enjoy yakiniku—primarily Yonezawa and Yamagata beef—at night, and a tonkatsu set with carefully selected pork and cold noodles at lunch.</p>\n<p>You can find the restaurant's location and business hours on Google Maps via &quot;Restaurant Location&quot; at the bottom of this article (the restaurant is closed on Mondays).</p>\n<p>Source: <a href=\"https://www.threads.com/@aki_special_sweet/post/DX3qkxbk01P\">Threads post</a></p>\n",
+      "markdown": "This is \"Yakiniku Tonchinkan,\" located in Tatemachi-minami, Nagai City.\n\nThe post featured the pork loin tonkatsu set meal. This is a long-established restaurant in Nagai where you can enjoy yakiniku—primarily Yonezawa and Yamagata beef—at night, and a tonkatsu set with carefully selected pork and cold noodles at lunch.\n\nYou can find the restaurant's location and business hours on Google Maps via \"Restaurant Location\" at the bottom of this article (the restaurant is closed on Mondays).\n\nSource: [Threads post](https://www.threads.com/@aki_special_sweet/post/DX3qkxbk01P)\n"
+    }
   },
   "embed_url": "https://www.threads.com/@aki_special_sweet/post/DX3qkxbk01P",
   "embed_platform": "threads",

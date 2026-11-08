@@ -1,0 +1,25 @@
+{
+  "site": "nagai",
+  "category_map": {
+    "馬刺し・精肉": "Horse Sashimi & Meat",
+    "和食・カフェ": "Japanese & Café",
+    "食堂・定食": "Diner & Set Meals",
+    "焼肉・とんかつ": "Yakiniku & Tonkatsu",
+    "お土産・スイーツ": "Souvenirs & Sweets"
+  },
+  "note": "PLaMo 3 Translate 用の用語集。terms は全段落共通でモデルへ渡す。",
+  "terms": [
+    {
+      "source": "長井",
+      "target": "Nagai"
+    },
+    {
+      "source": "馬刺し",
+      "target": "horse sashimi (basashi)"
+    },
+    {
+      "source": "米沢牛",
+      "target": "Yonezawa beef"
+    }
+  ]
+}
